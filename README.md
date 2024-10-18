@@ -33,6 +33,7 @@ Welcome to my GitHub profile! I'm passionate about technology and constantly loo
   - CI/CD practices
   - Terraform
   - Jenkins
+  - k8s
 
 ---
 
