@@ -34,6 +34,8 @@ Welcome to my GitHub profile! I'm passionate about technology and constantly loo
   - Terraform
   - Jenkins
   - k8s
+  - Azure
+  - Docker
 
 ---
 
