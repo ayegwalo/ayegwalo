@@ -42,7 +42,7 @@ Tech: Python, Scikit-Learn, Pandas, NumPy, Matplotlib
 ### 📜 Certifications & Skills
 - Azure Administrator (AZ-104)
 - Azure DevOps Engineer Expert (AZ-400)
-- CompTIA Security+ / Network+ ()
+- CompTIA Security+ / Network+
 - Google Cybersecurity Certificate
 - Google Network Technician
 
