@@ -29,9 +29,6 @@ Subscription + workflow tracker with auth, email, caching, and full REST API.
 Google Hackathon finalist – ML model that analyzes swing data.  
 *Tech: Python, Pandas, Flask, scikit-learn*
 
-🔁 [**CI/CD DevOps Demo**](https://github.com/ayegwalo/DevOps-Roadmap-chris)  
-Deploys Node app to Azure using Jenkins, Docker, and Terraform.  
-*Tech: Azure, Docker, Terraform, GitHub Actions*
 
 🏠 [**California Housing Price Predictor**](https://github.com/ayegwalo/handsOnML/tree/main)
 Builds an end-to-end ML pipeline to predict housing prices using real California data.
