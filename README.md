@@ -10,7 +10,6 @@ I'm a Full-Stack Developer | Certified DevOps Engineer | STEM (Robotics and Tink
 - Enhancing cloud solutions using Azure and Terraform
 - MLOps + full-stack AI projects
 
-
 ### 🚀 Tech Stack
 - **Languages**: JavaScript (Node.js, Next.js), Python, SQL,
 - **DevOps**: Certified Azure (AZ-104, AZ-400), Terraform, Jenkins, Docker, Kubernetes, Digital Ocean. 
@@ -23,8 +22,8 @@ I'm a Full-Stack Developer | Certified DevOps Engineer | STEM (Robotics and Tink
 
 ### 🧩 Featured Projects
 📋 [**Job App Management**](https://github.com/ayegwalo/job-app-tracker)
-Frontend job tracker app with Appwrite backend integration for storing and managing applications. 
-Includes form submission, real-time updates, and basic CRUD operations.
+- Frontend job tracker app with Appwrite backend integration for storing and managing applications. 
+- Includes form submission, real-time updates, and basic CRUD operations.
 *Tech: Vite, TypeScript, Appwrite, HTML, CSS*
 
 
