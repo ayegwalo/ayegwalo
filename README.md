@@ -32,7 +32,7 @@ Subscription + workflow tracker with auth, email, caching, and full REST API.
 
 ⚾ [**Baseball Hit Analyzer**](https://github.com/ayegwalo/baseball-hit-analyzer)  
 Google Hackathon finalist – ML model that analyzes swing data.  
-*Tech: Python, Pandas, Flask, scikit-learn*
+*Tech: Python, Pandas, Flask, scikit-learn, streamlit, matplotlib*
 
 
 🏠 [**California Housing Price Predictor**](https://github.com/ayegwalo/handsOnML/tree/main)
