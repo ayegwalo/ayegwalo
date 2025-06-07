@@ -13,11 +13,19 @@ I'm a Full-Stack Developer | Certified DevOps Engineer | STEM (Robotics and Tink
 
 ### 🚀 Tech Stack
 - **Languages**: JavaScript (Node.js, Next.js), Python, SQL,
-- **DevOps**: Azure (AZ-104, AZ-400), Terraform, Jenkins, Docker, Kubernetes, Digital Ocean. 
+- **DevOps**: Certified Azure (AZ-104, AZ-400), Terraform, Jenkins, Docker, Kubernetes, Digital Ocean. 
 - **ML/AI**: MLflow, Python (Pandas, scikit-learn), Google Hackathon Project
 - **Security**: CompTIA Security+, Kali Linux
+- **DataBases**: SQL, PostgresSQL, Appwrite
 - **IoT & Automation:** Raspberry Pi, Home Assistant, GPIO (Rpi.GPIO)
 - **Other**: GitHub Actions, CI/CD, REST APIs, Microservices, ROS 
+
+
+### 🧩 Featured Projects
+📋 Job App Management
+Frontend job tracker app with Appwrite backend integration for storing and managing applications. 
+Includes form submission, real-time updates, and basic CRUD operations.
+*Tech: Vite, TypeScript, Appwrite, HTML, CSS*
 
 
 ### 🧩 Featured Projects
